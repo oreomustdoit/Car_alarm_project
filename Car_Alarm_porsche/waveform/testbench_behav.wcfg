@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="testbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="testbench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="2,050.001 ns"></ZoomEndTime>
+      <Cursor1Time time="2,050.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="207"></NameColumnWidth>
+      <ValueColumnWidth column_width="108"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="11" />
+   <wvobject fp_name="/testbench/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/driver_door_switch" type="logic">
+      <obj_property name="ElementShortName">driver_door_switch</obj_property>
+      <obj_property name="ObjectShortName">driver_door_switch</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/passenger_door_switch" type="logic">
+      <obj_property name="ElementShortName">passenger_door_switch</obj_property>
+      <obj_property name="ObjectShortName">passenger_door_switch</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/ignition_switch" type="logic">
+      <obj_property name="ElementShortName">ignition_switch</obj_property>
+      <obj_property name="ObjectShortName">ignition_switch</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/hidden_switch" type="logic">
+      <obj_property name="ElementShortName">hidden_switch</obj_property>
+      <obj_property name="ObjectShortName">hidden_switch</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/brake_pedal_switch" type="logic">
+      <obj_property name="ElementShortName">brake_pedal_switch</obj_property>
+      <obj_property name="ObjectShortName">brake_pedal_switch</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/system_arm" type="logic">
+      <obj_property name="ElementShortName">system_arm</obj_property>
+      <obj_property name="ObjectShortName">system_arm</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/siren" type="logic">
+      <obj_property name="ElementShortName">siren</obj_property>
+      <obj_property name="ObjectShortName">siren</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/led" type="logic">
+      <obj_property name="ElementShortName">led</obj_property>
+      <obj_property name="ObjectShortName">led</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/fuel_pump_power" type="logic">
+      <obj_property name="ElementShortName">fuel_pump_power</obj_property>
+      <obj_property name="ObjectShortName">fuel_pump_power</obj_property>
+   </wvobject>
+</wave_config>
